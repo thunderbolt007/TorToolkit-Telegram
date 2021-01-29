@@ -17,7 +17,7 @@ except:
         ALD_USR = [1156597097,-1001266398622]
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = "allinone.darkkali614.workers.dev/0:"
+        GD_INDEX_URL = "https://toxik.suniljeyawardana.workers.dev/0:/"
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
