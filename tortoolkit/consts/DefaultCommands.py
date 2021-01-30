@@ -1,5 +1,5 @@
 class Commands:
-    LEECH = "leech"
+    LEECH = "leech@torleechpro_bot"
     PURGE = "purge@torleechpro_bot"
     PAUSEALL = "pauseall@torleechpro_bot"
     RESUMEALL = "resumeall@torleechpro_bot"
