@@ -7,7 +7,7 @@ except:
         
         API_HASH = "f423cffca6b5b7247b31b5b0df61f48d"
         API_ID = 1733305
-        BOT_TOKEN = "1596550006:AAFAJkSLPg6prJY26vl5OXOZ51ULhqGlMLk"
+        BOT_TOKEN = "1596550006:AAHQElSAohAblzQ4MubzImzNlttG2uJHkus"
         BASE_URL_OF_BOT = "http://t.me/torleechpro_bot"
 
         # Edit the server port if you want to keep it default though.
@@ -17,7 +17,7 @@ except:
         ALD_USR = [1156597097,-1001266398622]
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = "https://toxik.suniljeyawardana.workers.dev/0:"
+        GD_INDEX_URL = "https://allinone.darkkali614.workers.dev/0:"
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
