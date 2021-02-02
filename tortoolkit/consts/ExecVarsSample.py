@@ -35,7 +35,7 @@ except:
         REMAINING_STR = "▒"
 
         # DB URI for access
-        DB_URI = "postgresql://postgres:dkkaj0123456@postgresql/postgres"
+        DB_URI = "postgresql://postgres:dkkaj0123@postgresql/postgres"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
