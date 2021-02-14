@@ -5,16 +5,16 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = "f423cffca6b5b7247b31b5b0df61f48d"
-        API_ID = 1733305
-        BOT_TOKEN = "1596550006:AAHQElSAohAblzQ4MubzImzNlttG2uJHkus"
-        BASE_URL_OF_BOT = "http://t.me/torleechpro_bot"
+        API_HASH = "5fbc91808465973dcd79340baa8ee3e0"
+        API_ID = 2403946
+        BOT_TOKEN = "1604374441:AAGaTDrs6hSSojrRwPU5HpKuz188T5c2C0o"
+        BASE_URL_OF_BOT = "http://t.me/kratosleechbot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1156597097,-1001266398622]
+        ALD_USR = [1240804992,-1001468848929]
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = "https://allinone.darkkali614.workers.dev/0:"
